@@ -12,6 +12,4 @@ Tendo recebido os dados, o software os processa atráves da formúla de consumo 
 Para executar é bem simples, basta digitar o nome do aparelho que deseja calcular o consumo, a potência dele em watts (somente números), O tempo de uso diário dele em horas e por último o custo do kWh na sua cidade. (ex: 0.75, 0.90)
 
 ---
-
-![Badge Python](https://shields.io)
-![Badge GitHub](https://shields.io)
+![Python](images.jfif)
