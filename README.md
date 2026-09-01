@@ -13,5 +13,3 @@ Para executar é bem simples, basta digitar o nome do aparelho que deseja calcul
 
 ---
 
-![Badge Python](https://shields.io)
-![Badge GitHub](https://shields.io)
